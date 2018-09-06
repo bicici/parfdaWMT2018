@@ -7,7 +7,7 @@ https://drive.google.com/drive/folders/1-pHpPjU3khJLYL-6Gi-rqS2QNSK0nDNG?usp=sha
 
 Reference translations for the test set are available from http://www.statmt.org/wmt18/translation-task.html. Citation:
 
-Ergun Bicici. ParFDA for Instance Selection for Statistical Machine Translation. In Proc. of the First Conference on Statistical Machine Translation (WMT16), Berlin, Germany, 8 2016. Association for Computational Linguistics.
+Ergun Bicici. Robust parfda Statistical Machine Translation Results. In Proc. of the Third Conference on Statistical Machine Translation (WMT18), Brussels, Belgium, November, 2018. Association for Computational Linguistics.
 
 The datasets allow fast deployment of accurate SMT systems and can be used for benchmarking the performance of SMT systems.
 
